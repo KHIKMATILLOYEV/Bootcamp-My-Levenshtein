@@ -1,5 +1,5 @@
-# Bootcamp-Qwasar Preseason Web
-## Описание My-Levenshtein
-Данный алгоритм предназначен для вычисления квасаровской версии числа Левенштейна между двумя словами. Квасаровская версия числа Левенштейна представляет собой значение, отражающее степень сходства между двумя заданными строками. В нашем случае мы упростили понятие числа Левенштейна для целей данного упражнения.
-## Реализация
-Алгоритм квасаровской версии числа Левенштейна основан на сравнении двух строк и возвращении разницы между ними. Детали реализации алгоритма можно найти в файле **my_levenshtein.js**.
+# # Boot camp-Quasar Preseason Web
+## Description of My-Levenshtein
+This algorithm is designed to calculate the Quasar version of the Levenshtein number between two words. The Quasar version of the Levenshtein number is a value that reflects the degree of similarity between two given strings. In our case, we have simplified the concept of the Levenshtein number for the purposes of this exercise.
+## Implementation
+The algorithm of the Quasar version of the Levenshtein number is based on comparing two strings and returning the difference between them. Details of the algorithm implementation can be found in the file **my_levenshtein.js **.
